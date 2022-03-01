@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Declaration of the states of Holland, concerning the King of Scots; with the chusing of the Duke of York, the Lord Craven, and Maj. Gen. Massey, Captain-Generals, by the English, French, and Dutch; and the resolution of Vantrump concerning the L. of Newport, and the L. Catz; together with his orders and instructions to all the Court of Admiralties, for the setting forth all shipping fit for service, and each captain and commander to cut his way through the English fleet. Also, a diurnal of the Dutch occurrences; and their making ready all the sluces.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97127</idno>
+            <idno type="STC">Wing W775</idno>
+            <idno type="STC">Thomason E701_7</idno>
+            <idno type="STC">ESTC R207091</idno>
+            <idno type="EEBO-CITATION">99866163</idno>
+            <idno type="PROQUEST">99866163</idno>
+            <idno type="VID">166569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97127)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166569)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 108:E701[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Declaration of the states of Holland, concerning the King of Scots; with the chusing of the Duke of York, the Lord Craven, and Maj. Gen. Massey, Captain-Generals, by the English, French, and Dutch; and the resolution of Vantrump concerning the L. of Newport, and the L. Catz; together with his orders and instructions to all the Court of Admiralties, for the setting forth all shipping fit for service, and each captain and commander to cut his way through the English fleet. Also, a diurnal of the Dutch occurrences; and their making ready all the sluces.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Geo. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166569:1" rendition="simple:additions"/>
+            <p>THE DECLARATION <hi>OF THE</hi> States of Holland, concerning the King of <hi>Scots;</hi> With the chuſing of the Duke of <hi>York,</hi> the Lord <hi>Craven,</hi> and Maj. Gen. <hi>Maſſey,</hi> Captain-Generals, by the Engliſh, French, and Dutch; And the Reſolution of <hi>Vantrump</hi> concerning the L. of <hi>Newport,</hi> and the L. <hi>Catz;</hi> Together with his Orders and Inſtructions to all the Court of <hi>Admiralties,</hi> for the ſetting forth all ſhipping fit for ſervice, and each captain and commander to cut his way through the Engliſh Fleet. Alſo, a <hi>Diurnal</hi> of the <hi>Dutch Occurrences;</hi> and their making ready all the Sluces.</p>
+            <figure>
+               <figDesc>engraving of lion, placed incorrectly</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed for Geo. Horton, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166569:2"/>
+            <pb n="3" facs="tcp:166569:2"/>
+            <head>The laſt LETTERS From the NAVY:</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince my laſt of the 8 inſtant, We are come to an anchor in the Te<g ref="char:EOLhyphen"/>xel, where we ride with great ſafe<g ref="char:EOLhyphen"/>ty, offending the enemy, and defending our ſelves; and obſtructing the paſſage of all ſhips from paſſing either in or out. We have exchanged many hundreds of great ſhot, and have allarum'd the whole Coun<g ref="char:EOLhyphen"/>trey,
+<pb n="4" facs="tcp:166569:3"/>eſpecially Holland, Zealand, and Weſt-Friez<g ref="char:EOLhyphen"/>land. Whereupon their Land-forces are drawing down towards the Sea-coaſt to oppoſe Us, and we are preparing to receive them.</p>
+            <p>Vantrump hath ſent Orders and Inſtructions to all the Court of Admiralties, requiring them forth<g ref="char:EOLhyphen"/>with to man out all ſhips and veſſels whatſoever, that are fit for ſervice; and withall, each Captain to cut his way, and force his paſſage through the Engliſh Fleet. Yet, notwithſtanding, we do not in the leaſt hear, that his high and mighty Excellen<g ref="char:EOLhyphen"/>cy, forſooth, hath taken the Sacrament now, as he did in his former Enterpriſe, which was, To ſweep the Narrow-ſeas of all the Engliſh, and to burn, and ſink all ſhips whatſoever, belonging to this Com<g ref="char:EOLhyphen"/>mon-wealth, &amp;c. But divine providence fruſtrated their implacable Reſolutions, and gave us ſuch a mighty Victory againſt thoſe (who, a few dayes be<g ref="char:EOLhyphen"/>fore, were lifted up with their ſucceſs in getting out their Fleets for Trade, and bringing their ſhips loa<g ref="char:EOLhyphen"/>den with Merchandiſe home in ſafety, and in their braving it upon our coaſts, ſhooting againſt our towns and caſtles in the abſence of our fleet) was a moſt ſignal, and every way, a moſt ſeaſonable mer<g ref="char:EOLhyphen"/>cy.</p>
+            <pb n="5" facs="tcp:166569:3"/>
+            <p>Since which memorable Defeat, the States Ge<g ref="char:EOLhyphen"/>neral have had ſundry conſultations, touching the ſetting forth another fleet, and withall declared for the King of Scots Intereſt, and that his colours ſhould be erected and ſet up, &amp;c. Bu, truly, to ſpeak, truth, I humbly conceive, the Gentleman has more rational Knowledge and Ingenuity, then to repoſe the leaſt truſt upon ſuch a Rebellious and perfidi<g ref="char:EOLhyphen"/>ous people.</p>
+            <p>Great are their preparations for war throughout all the Netherlands; and exceedingly exaſperated are the Royal Party and Nobility; ſo that ſundry Declarations have been diſpierced and publiſhed, inciting the Engliſh, French, and Scots, to a conjun<g ref="char:EOLhyphen"/>ction with the Dutch, which, we hear, is reſolved upon, onely one obſtacle hangs ſhrewdly upon the Hinges, in reference to a commander in chief: the French and Walloons declare for the titular Duke of York; but the Engliſh and Scots declare for the Lord Craven, and Major General Malſey. What the Reſult of theſe Debates will produce, I ſhal re<g ref="char:EOLhyphen"/>fer you to a more ſeaſonable Opportunity, and re<g ref="char:EOLhyphen"/>main</p>
+            <closer>
+               <signed>
+                  <hi>Your aſſured friend,</hi> John Ward,</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:166569:4"/>
+            <head>Another Letter from the Navy, touching their further proceedings againſt the Hollanders, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis morning we recived intelligence by a Flemin that came aboard our Admiral, that about 8000 foot have rein<g ref="char:EOLhyphen"/>forced the ſtrong towns of
+<list>
+                  <item>Helverſluce,</item>
+                  <item>Goree,</item>
+                  <item>Weſt-capel,</item>
+                  <item>Fluſhing,</item>
+                  <item>Oſtent forts,</item>
+                  <item>The Neſs,</item>
+                  <item>Enchuſion,</item>
+                  <item>Egmont,</item>
+                  <item>Limne,</item>
+                  <item>Caſtricum,</item>
+                  <item>Brill,</item>
+                  <item>Dort,</item>
+                  <item>Brou,</item>
+                  <item>Delf,</item>
+                  <item>Buſs,</item>
+                  <item>Middleburgh,</item>
+                  <item>Domborch,</item>
+                  <item>Scagen,</item>
+                  <item>Egmont,</item>
+                  <item>Breerode,</item>
+                  <item>Monſter,</item>
+                  <item>Aſemar.</item>
+               </list>
+            </p>
+            <pb n="7" facs="tcp:166569:4"/>
+            <p>And ſundry other places: They have alſo placed ſtrong Guards at the moſt con<g ref="char:EOLhyphen"/>ſiderable ſluces, and are reſolv'd, if they can, to let in the ſea, and deſtroy us by water, if we attempt to make our inroad into the Countrey. As for the Dorps which were ſaid to be burned upon the landing of ſome of our men, I have not ſeen any Expreſs of credence to confirm it; Onely thus much we have by way of Tranſcript, that it is ve<g ref="char:EOLhyphen"/>ry certain the common ſort of people con<g ref="char:EOLhyphen"/>tinue in a great diſtraction. The conteſtati<g ref="char:EOLhyphen"/>on is great betwixt thoſe of the Princes party, aſſiſted by Vantrump, and the Lords of the States General, who now ſigh after peace, and fain would have an accommoda<g ref="char:EOLhyphen"/>tion with England; but the Royal family declareth againſt them, and by way of im<g ref="char:EOLhyphen"/>peachment affirmeth, that during this exi<g ref="char:EOLhyphen"/>gencie of time great hath bin their confede<g ref="char:EOLhyphen"/>racy with the common enemie, in obſtru<g ref="char:EOLhyphen"/>cting
+<pb n="8" facs="tcp:166569:5"/>the Maritine and Naval Affairs, by perverting many of the Captains, and ſub<g ref="char:EOLhyphen"/>verting divers of the ſouldiers, in an under<g ref="char:EOLhyphen"/>hand way that they ſhould not engage a<g ref="char:EOLhyphen"/>gainſt us, and wholy impute the loſing of the day to their private negotiations with the Engliſh intereſt: no leſs then 37 Arti<g ref="char:EOLhyphen"/>cles of Impeachment and high treaſon are exhibited, printed, and publiſhed, againſt the States General, viz The
+<list>
+                  <item>Lord of Hempſtead,</item>
+                  <item>Lord Catz,</item>
+                  <item>Lord of Newport,</item>
+               </list> And divers others, who are already written with bloudy Characters in the black book of Inquiſition. Thus recommending my ſelf unto you, and the reſt of our cordial brethren, I humbly ſubſcribe my ſelf,</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt endeared and obliged Servitor,</hi> John Williams.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
